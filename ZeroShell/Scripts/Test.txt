@@ -1,0 +1,7 @@
+Chp main
+Print {Добро пожаловать в программу!}
+Print Nline {Это ваш новый скрипт.}
+Input $name - {Введите ваше имя: }
+Print {Привет, } $name {!}
+Wait 2
+End Chp
